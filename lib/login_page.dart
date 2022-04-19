@@ -49,7 +49,7 @@ class _LoginPageState extends State<LoginPage> {
                     enableSuggestions: true,
                     decoration: InputDecoration(
                         labelText: 'Phone number',
-                        hintText: 'Enter your Phone Number',
+                        hintText: ' Phone Number',
                         //errorText: 'Invalid Phone number',
                         errorStyle: const TextStyle(
                           fontSize: 15.0,
